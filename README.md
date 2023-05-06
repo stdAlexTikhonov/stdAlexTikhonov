@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stdAlexTikhonov
-- 👀 I’m interested in Frontend & Game Development
+- 👀 I’m interested in Frontend
 - 📫 How to reach me: std1992@mail.ru or stdAlexTikhonov@hotmail.com 
 
 <!---
